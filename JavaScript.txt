@@ -1,0 +1,25 @@
+Programming language basic
+logic and conditions
+loops and repetition 
+handling strings
+arrays
+objects
+functions
+functional programming
+scope and closure
+oop concepts//java
+oop with js
+prototype
+prototypical inheritance
+ES6
+error handling
+asynchronous programming
+dom
+project
+javaScript libraries
+future roadmap
+
+
+---------------------
+
+
